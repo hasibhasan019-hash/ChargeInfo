@@ -1,0 +1,15 @@
+pluginManagement {
+    repositories {
+        google()
+        mavenCootal()
+        gradlePluginPortal()
+    }
+}
+dependencyResolutionManagement {
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "ChargeInfo"
+include ':app'
