@@ -1,7 +1,7 @@
 pluginManagement {
     repositories {
         google()
-        mavenCootal()
+        mavenCentral()
         gradlePluginPortal()
     }
 }
